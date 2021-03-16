@@ -84,7 +84,7 @@
                         </div>
 
                         <div class="input-group d-grid gap-2 pt-3">
-                            <input type="submit" value="Reqister" class="btn btn-primary">
+                            <input type="submit" id="register_user" value="Reqister" class="btn btn-primary">
                         </div>
                     </form>
                     
